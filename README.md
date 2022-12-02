@@ -2,6 +2,8 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
+[Check out a live preview](https://social-proof-section-nine-iota.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
